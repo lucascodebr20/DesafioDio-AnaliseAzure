@@ -1,5 +1,3 @@
-# README.md
-
 ## Análise de Sentimento e Mineração de Opinião
 
 Este documento descreve o processo de análise de sentimento aplicada ao texto fornecido, inspirado na abordagem do Azure Cognitive Services. A seguir, apresento alguns prints simulados, o fluxo de trabalho e insights obtidos durante o processo.
