@@ -8,7 +8,7 @@ Este documento descreve o processo de análise de sentimento aplicada ao texto f
 
 ### Entrada do Texto
 - **Texto Fornecido:**  
-  Uma narrativa em que o autor relata um episódio inusitado em um trem, que culmina no surgimento do apelido “Dom Casmurro”.  
+  Uma narrativa em que o autor relata um episódio inusitado em um trem, que culmina no surgimento do apelido “Dom Casmurro”. Texto foi retirado do primeiro capítulo de Dom Casmurro.
 - **Objetivo:**  
   Aplicar técnicas de mineração de opinião para extrair sentimentos e nuances da narrativa.
 
