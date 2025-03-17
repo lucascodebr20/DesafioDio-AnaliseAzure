@@ -59,3 +59,11 @@ Tivemos 31 analises de frases porém infelizmente a nova versão do site da Azur
 | 1  | mixed                  | 0.22              | 0.08            | 0.7               | Vê se deixas essa caverna do Engenho Novo... | neutral             | 0.02              | 0.95            | 0.03              |
 
 
+## 3. Conclusão
+
+Achei a análise feita pela IA bem interessante, mas um ponto importante para mim é o custo. Fico um pouco preocupado com o impacto financeiro que uma análise em larga escala poderia gerar e ainda gosto de pensar em soluções que não dependam exclusivamente de IA.
+
+Por exemplo, ao analisar se uma loja de varejo está recebendo feedback positivo dos clientes, a avaliação por número de estrelas já fornece um bom indicativo. No entanto, a IA pode contribuir identificando os motivos dos feedbacks negativos, como problemas de durabilidade, atendimento ou tempo de entrega.
+
+Mas se o custo for alto, será que não valeria mais a pena desenvolver um bot sem IA que busque por palavras-chave para identificar essas tendências?
+
