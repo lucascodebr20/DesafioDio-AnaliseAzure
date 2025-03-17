@@ -15,12 +15,14 @@ Este documento descreve o processo de análise de sentimento aplicada ao texto f
 ### Etapas da Análise
 1. **Pré-processamento:**  
    O texto foi segmentado e preparado para análise, identificando frases e expressões de interesse.
-2. **Extração de Sentimentos:**  
+   
+3. **Extração de Sentimentos:**  
    Utilizando a abordagem inspirada no Azure Cognitive Services, foram avaliados:
    - **Sentimento Global:** Pontuação geral ligeiramente positiva.
    - **Aspectos Positivos:** Humor, ironia e apreço estético (como a menção aos versos).
    - **Aspectos Negativos:** Tensão nas interações e desaprovação dos personagens secundários.
-3. **Mineração de Opinião:**  
+     
+4. **Mineração de Opinião:**  
    Foram detalhados os aspectos emocionais e estilísticos, segmentando a narrativa em elementos que contribuem para a compreensão do impacto emocional.
 
 ---
